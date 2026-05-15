@@ -1,1 +1,5 @@
-func main() { println("hello ai") }
+package main
+
+import "fmt"
+
+func main() { fmt.Println("Changed the line") }
