@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func calc() {
 	var num1 int
 	var num2 float64
 
